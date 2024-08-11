@@ -1,9 +1,10 @@
 # titanic-survival-prediction
 
-##Project Overview
- -- This project aims to build a machine learning model to predict whether a passenger on the Titanic would survive the disaster, based on features such as passenger class, sex, age, and more
+## Project Overview
 
-##Dataset
+ --This project aims to build a machine learning model to predict whether a passenger on the Titanic would survive the disaster, based on features such as passenger class, sex, age, and more
+
+## Dataset
 --Source of the dataset (Kaggle :'https://www.kaggle.com/datasets/yasserh/titanic-dataset/data')
 
 --the shape of dataset is (891, 10) ,we have features such as ['PassengerId', 'Survived', 'Pclass', 'Name', 'Sex', 'Age', 'SibSp', 'Parch', 'Ticket', 'Fare', 'Cabin', 'Embarked']
